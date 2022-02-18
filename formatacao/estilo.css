@@ -1,0 +1,92 @@
+.container-fluid{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-color: #e5efff;
+	padding: 20px;
+}
+.titulo
+{
+	background-color: #fff;
+	box-shadow: 1px 1px 1px 1px #e5efff;
+	border-radius: 18px; 
+	padding: 8px; 
+}
+#dash{
+	box-shadow: 1px 1px 1px 1px #e5efff;
+	border-radius: 7px;
+}
+label{
+	font-family: cursive;
+	font-weight: bold;
+	color: #6268c7;
+	font-size: 15px;
+}
+.subMenu ul li a{
+	text-decoration: none;
+	color: #a5a6be;
+	text-shadow: black;
+	font-family: "arial"; 
+	font-size: 16px;
+	font-weight: bold;
+}
+.subMenu ul li{
+	padding: 10px;
+}
+.subMenu ul li a i{
+	margin-right: 5px;
+}
+.subMenu ul li:hover{
+	border-radius: 17px;
+	background-color: #cbe0ff;
+}
+.areaUser{
+	background-color: #fff;
+	border-radius: 27px;
+	box-shadow: 2px 2px 2px 2px #e5efff; 
+}
+.bordas{
+	border-radius: 17px;
+}
+#imguser{
+	position: absolute;
+	left: 57px;
+	top: 310px;
+}
+#PrimeiraParte{
+	background-color: #eff5ff;
+	box-shadow: 2.5px 2.5px 2.5px 2.5px #e5efff;
+	border-bottom-left-radius: 27px;
+	border-top-left-radius: 27px;
+}
+#segundaParte{
+	background-color: #f9fbff;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	box-shadow: 2px 2px 2px 2px #e5efff; 
+}
+.textAzulDark{
+	color: #434781;	
+}
+.textoCinzaAzul{
+	color: #e1e2eb;
+	font-style: normal;
+}
+.tipoLetra1{
+	font-family: "rockwell";
+}
+.fundoAzulDark{
+	background-color: #120f42;
+}
+.subTitulo{
+	font-weight: bold;
+	font-family: "pristina";
+	font-size: 17px;
+}
+.pristina{
+	font-family: "pristina";
+}
+.rockweel{
+	font-family: "Rockwell";
+}
